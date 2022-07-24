@@ -15,3 +15,7 @@ npm run build
 # serve your production build at localhost:5000
 npm start
 ```
+
+## Empty Project:
+
+[Sun0fABeach / vue-phaser3](https://github.com/Sun0fABeach/vue-phaser3)
